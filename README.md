@@ -1,9 +1,14 @@
-# CodeInside
-![progress](https://img.shields.io/badge/progress-developing-yellow.svg)
-![contributions](https://img.shields.io/badge/contributions-welcome-green.svg) 
+<div align="center">
+  <h1 align="center"><center>CodeInside</center></h1>
+  <h3 align="center"><center>A powerful and independent platform for coding like a human.</center></h1>
+<div>
 
-### A powerful and independent platform for coding like a human.
+<p align="center">
+  <img src="https://img.shields.io/badge/progress-developing-yellow.svg" alt="progress">
+  <img src="https://img.shields.io/badge/contributions-welcome-green.svg" alt="contributions">
+</p>
 
+---
 ## Getting Started
 
 For help to get started with Django, see the online [documentation](https://docs.djangoproject.com).  
