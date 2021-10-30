@@ -1,4 +1,11 @@
 {
-  "message": "Bad credentials",
-  "documentation_url": "https://docs.github.com/rest"
+  "count": 32,
+  "uniques": 11,
+  "clones": [
+    {
+      "timestamp": "2021-10-30T00:00:00Z",
+      "count": 32,
+      "uniques": 11
+    }
+  ]
 }
