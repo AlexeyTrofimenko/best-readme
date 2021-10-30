@@ -31,5 +31,4 @@ jobs:
           title: Updates by GithubActions
           body: This is an auto-generated PR.
           labels: badge
-          reviewers: peter-evans
           branch: actions-badge
