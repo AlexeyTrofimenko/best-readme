@@ -1,6 +1,9 @@
 <div align="center">
-  <h1 align="center"><center>CodeInside</center></h1>
-  <h3 align="center"><center>A powerful and independent platform for coding like a human.</center></h3>
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <br>
+  <h1 align="center">CodeInside</h1>
+  <h3 align="center">A powerful and independent platform for coding like a human.</h3>
   <br>
   <br>
 </div>
