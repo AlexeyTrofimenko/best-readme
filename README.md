@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/progress-developing-yellow.svg" alt="progress">
   <img src="https://img.shields.io/badge/contributions-welcome-green.svg" alt="contributions">
   <img src ="https://img.shields.io/github/repo-size/AlexeyTrofimenko/best-readme" alt="codesize">
+  <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fcodeinside.herokuapp.com%2F" alt="webstire">
 </p>
 <p align="center">
   <a href="#getting-started">Getting started</a> •
