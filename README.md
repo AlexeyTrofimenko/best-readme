@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="">
-    <img src="ci.png" alt="CodeInside" width="100%">
+    <img src="best-readme.png" alt="CodeInside" width="100%">
   </a>
   <br>
   <h1 align="center">CodeInside</h1>
