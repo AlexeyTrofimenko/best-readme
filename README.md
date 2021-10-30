@@ -3,7 +3,7 @@
   <h3 align="center"><center>A powerful and independent platform for coding like a human.</center></h3>
   <br>
   <br>
-<div>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/progress-developing-yellow.svg" alt="progress">
