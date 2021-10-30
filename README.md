@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/contributions-welcome-green.svg" alt="contributions">
   <img src ="https://img.shields.io/github/repo-size/AlexeyTrofimenko/best-readme" alt="codesize">
   <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcodeinside.herokuapp.com/admin%2F" alt="webstire">
+  <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://github.com/AlexeyTrofimenko/best-readme/blob/main/clone.json?raw=True&logo=github" alt="clones">
 </p>
 <p align="center">
   <a href="#getting-started">Getting started</a> •
@@ -23,7 +24,6 @@
 
 ---
 ## Getting Started
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://github.com/AlexeyTrofimenko/best-readme/blob/main/clone.json?raw=True&logo=github)](https://github.com/AlexeyTrofimenko/best-readme)
 For help to get started with Django, see the online [documentation](https://docs.djangoproject.com).  
 For understanding the requests, see the API [documentation](https://documenter.getpostman.com/view/15665431/UV5ZCxDC).
 
