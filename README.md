@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://github.com/AlexeyTrofimenko/best-readme/blob/main/clone.json?raw=True&logo=github" alt="clones">
 </p>
 <p align="center">
-  <a href="#getting-started">Getting started</a> •
-  <a href="#installation">Instalation</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#installation">Installation</a> •
   <a href="#contributions">Contributions</a>
 </p>
 
