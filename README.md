@@ -9,6 +9,7 @@
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/python-v3.6+-blue.svg" alt="python">
   <img src="https://img.shields.io/badge/progress-developing-yellow.svg" alt="progress">
   <img src="https://img.shields.io/badge/contributions-welcome-green.svg" alt="contributions">
 </p>
