@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://socialify.git.ci/AlexeyTrofimenko/best-readme/image?description=1&descriptionEditable=A%20powerful%20and%20independent%20platform%20for%20coding%20like%20a%20human.&language=1&pattern=Circuit%20Board&theme=Dark" alt="CodeInside" width="200"></a>
   <br>
   <h1 align="center">CodeInside</h1>
   <h3 align="center">A powerful and independent platform for coding like a human.</h3>
