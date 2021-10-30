@@ -1,6 +1,8 @@
 <div align="center">
   <h1 align="center"><center>CodeInside</center></h1>
-  <h3 align="center"><center>A powerful and independent platform for coding like a human.</center></h1>
+  <h3 align="center"><center>A powerful and independent platform for coding like a human.</center></h3>
+  <br>
+  <br>
 <div>
 
 <p align="center">
