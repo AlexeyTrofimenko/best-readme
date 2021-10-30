@@ -1,6 +1,8 @@
 <div align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="ci.png" alt="CodeInside" width="200"></a>
+  <a href="">
+    <img src="ci.png" alt="CodeInside" width="100%">
+  </a>
   <br>
   <h1 align="center">CodeInside</h1>
   <h3 align="center">A powerful and independent platform for coding like a human.</h3>
