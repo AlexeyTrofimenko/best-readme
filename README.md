@@ -23,7 +23,7 @@
 
 ---
 ## Getting Started
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=<url>?raw=True&logo=github)](https://github.com/AlexeyTrofimenko/best-readme)
+[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=clone.json?raw=True&logo=github)](https://github.com/AlexeyTrofimenko/best-readme)
 For help to get started with Django, see the online [documentation](https://docs.djangoproject.com).  
 For understanding the requests, see the API [documentation](https://documenter.getpostman.com/view/15665431/UV5ZCxDC).
 
