@@ -1,12 +1,10 @@
 <div align="center">
   <br>
   <a href="">
-    <img src="best-readme.png" alt="CodeInside" width="100%">
+    <img src="ci.png" alt="CodeInside" width="100%">
   </a>
   <br>
-  <h1 align="center">CodeInside</h1>
   <h3 align="center">A powerful and independent platform for coding like a human.</h3>
-  <br>
   <br>
 </div>
 
