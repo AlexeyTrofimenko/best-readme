@@ -11,12 +11,15 @@ For understanding the requests, see the API [documentation](https://documenter.g
 
 ### Installation
 
-1. Clone/download this repository `git clone https://github.com/mgtippet33/CodeInside.git`
-2. Open folder `cd CodeInside`
-3. Install requirements `pip install -r requirements.txt`
-4. Make migrations `python manage.py makemigrations`
-5. Migrate `python manage.py migrate`
-6. Run server to make sure everything is fine `python manage.py runserver`
+1. Clone/download this repository
+```
+git clone https://github.com/mgtippet33/CodeInside.git
+```
+3. Open folder `cd CodeInside`
+4. Install requirements `pip install -r requirements.txt`
+5. Make migrations `python manage.py makemigrations`
+6. Migrate `python manage.py migrate`
+7. Run server to make sure everything is fine `python manage.py runserver`
 
 ## Contributions
 
