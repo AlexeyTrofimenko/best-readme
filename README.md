@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/python-v3.6+-blue.svg" alt="python">
   <img src="https://img.shields.io/badge/progress-developing-yellow.svg" alt="progress">
   <img src="https://img.shields.io/badge/contributions-welcome-green.svg" alt="contributions">
-  <img src ="https://img.shields.io/github/repo-size/AlexeyTrofimenko/best-readme?style=for-the-badge" alt="codesize">
+  <img src ="https://img.shields.io/github/repo-size/AlexeyTrofimenko/best-readme" alt="codesize">
 </p>
 <p align="center">
   <a href="#getting-started">Getting started</a> •
