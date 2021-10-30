@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/progress-developing-yellow.svg" alt="progress">
   <img src="https://img.shields.io/badge/contributions-welcome-green.svg" alt="contributions">
 </p>
+<p align="center">
+  <a href="#getting-started">Getting started</a> •
+  <a href="#installation">Instalation</a> •
+  <a href="#contributions">Contributions</a>
+</p>
 
 ---
 ## Getting Started
