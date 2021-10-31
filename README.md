@@ -13,7 +13,7 @@
   <img src ="https://img.shields.io/github/repo-size/AlexeyTrofimenko/best-readme" alt="codesize">
   <img src="https://img.shields.io/badge/progress-developing-yellow.svg" alt="progress">
   <img src="https://img.shields.io/badge/contributions-welcome-green.svg" alt="contributions">
-  <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcodeinside.herokuapp.com/admin%2F" alt="webstire">
+  <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcodeinside.herokuapp.com/admin%2F" alt="website">
   <img src="https://img.shields.io/badge/dynamic/json?color=success&label=coverage&query=count&url=https://raw.githubusercontent.com/AlexeyTrofimenko/codeinside-badges/main/coverage_badge/coverage.json?raw=True&logo=github" alt="coverage">
   <img src="https://img.shields.io/badge/dynamic/json?color=success&label=clones&query=count&url=https://raw.githubusercontent.com/AlexeyTrofimenko/codeinside-badges/main/cloners_badge/cloners.json?raw=True&logo=github" alt="clones">
 </p>
