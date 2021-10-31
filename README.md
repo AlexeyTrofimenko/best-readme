@@ -20,7 +20,8 @@
 <p align="center">
   <a href="#getting-started">Getting Started</a> •
   <a href="#installation">Installation</a> •
-  <a href="#contributions">Contributions</a>
+  <a href="#contributions">Contributions</a> •
+  <a href="#license">License</a>
 </p>
 
 ---
@@ -60,3 +61,6 @@ If you want to contribute to the project, you have the following options:
   an [issue](https://github.com/MagisterFelix/CodeInside/issues).
 * If you fixed a bug or implemented a feature, please send
   a [pull request](https://github.com/MagisterFelix/CodeInside/pulls).
+
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
